@@ -1,0 +1,163 @@
+Output 1:
+Enter how many types of desserts you sell in your store: 5
+Enter the 5 type of desserts :
+CHOCOLATE CAKE
+LEMON MERINGUE PIE
+STRAWBERRY PUDDING
+RAINBOW MACARON SET
+RASPBERRY PUFF
+
+Price of the CHOCOLATE CAKE : RM299
+Cost of ingredients of the CHOCOLATE CAKE : RM220
+Quantity of the CHOCOLATE CAKE sold : 65
+
+Price of the LEMON MERINGUE PIE : RM30
+Cost of ingredients of the LEMON MERINGUE PIE : RM22
+Quantity of the LEMON MERINGUE PIE sold : 81
+
+Price of the STRAWBERRY PUDDING : RM15
+Cost of ingredients of the STRAWBERRY PUDDING : RM10
+Quantity of the STRAWBERRY PUDDING sold : 134
+
+Price of the RAINBOW MACARON SET : RM50
+Cost of ingredients of the RAINBOW MACARON SET : RM35
+Quantity of the RAINBOW MACARON SET sold : 214
+
+Price of the RASPBERRY PUFF : RM8
+Cost of ingredients of the RASPBERRY PUFF : RM5
+Quantity of the RASPBERRY PUFF sold : 342
+
+Have you hired staff? (Yes or No)
+YES
+Enter the number of employees you hired : 2
+Enter the employee salary : RM1500
+Enter the rent payment per month : RM600
+Enter the utilities fee for this month : RM550.5
+Enter the transport fee for this month : RM400.5
+
+Desserts detail:
+1. CHOCOLATE CAKE 	Price: RM299.0 	Quantity Sold: 65 	Cost: RM220.0 	Gross Profit: RM79.0
+2. LEMON MERINGUE PIE 	Price: RM30.0 	Quantity Sold: 81 	Cost: RM22.0 	Gross Profit: RM8.0
+3. STRAWBERRY PUDDING 	Price: RM15.0 	Quantity Sold: 134 	Cost: RM10.0 	Gross Profit: RM5.0
+4. RAINBOW MACARON SET 	Price: RM50.0 	Quantity Sold: 214 	Cost: RM35.0 	Gross Profit: RM15.0
+5. RASPBERRY PUFF 	Price: RM8.0 	Quantity Sold: 342 	Cost: RM5.0 	Gross Profit: RM3.0
+
+	 FINANCIAL STATEMENT
+	**************************************************************************
+	 TOTAL SALES    	   = RM37311.0
+	 TOTAL COST OF INGREDIENTS = RM26622.0
+	______________________________________________
+	 TOTAL GROSS PROFIT 	   = RM10689.0
+	 TOTAL OTHER COST 	= RM4551.0
+	______________________________________________
+	 NET INCOME 		= RM6138.0
+	**************************************************************************
+
+"You have a decent income and can keep your business going."
+
+Output 2: 
+Enter how many types of desserts you sell in your store: 6
+Enter the 6 type of desserts :
+lemon pie
+chocolate cake
+ice cream
+strawberry pudding
+durian puff
+macaron
+
+Price of the lemon pie : RM15
+Cost of ingredients of the lemon pie : RM10
+Quantity of the lemon pie sold : 135
+
+Price of the chocolate cake : RM199
+Cost of ingredients of the chocolate cake : RM150
+Quantity of the chocolate cake sold : 34
+
+Price of the ice cream : RM10
+Cost of ingredients of the ice cream : RM5
+Quantity of the ice cream sold : 245
+
+Price of the strawberry pudding : RM8
+Cost of ingredients of the strawberry pudding : RM5
+Quantity of the strawberry pudding sold : 346
+
+Price of the durian puff : RM15
+Cost of ingredients of the durian puff : RM8
+Quantity of the durian puff sold : 137
+
+Price of the macaron : RM20
+Cost of ingredients of the macaron : RM13
+Quantity of the macaron sold : 184
+
+Have you hired staff? (Yes or No)
+yes
+Enter the number of employees you hired : 3
+Enter the employee salary : RM1200
+Enter the rent payment per month : RM800
+Enter the utilities fee for this month : RM650
+Enter the transport fee for this month : RM300
+
+Desserts detail:
+1. lemon pie 	Price: RM15.0 	Quantity Sold: 135 	Cost: RM10.0 	Gross Profit: RM5.0
+2. chocolate cake 	Price: RM199.0 	Quantity Sold: 34 	Cost: RM150.0 	Gross Profit: RM49.0
+3. ice cream 	Price: RM10.0 	Quantity Sold: 245 	Cost: RM5.0 	Gross Profit: RM5.0
+4. strawberry pudding 	Price: RM8.0 	Quantity Sold: 346 	Cost: RM5.0 	Gross Profit: RM3.0
+5. durian puff 	Price: RM15.0 	Quantity Sold: 137 	Cost: RM8.0 	Gross Profit: RM7.0
+6. macaron 	Price: RM20.0 	Quantity Sold: 184 	Cost: RM13.0 	Gross Profit: RM7.0
+
+	 FINANCIAL STATEMENT
+	**************************************************************************
+	 TOTAL SALES    	   = RM19744.0
+	 TOTAL COST OF INGREDIENTS = RM12893.0
+	______________________________________________
+	 TOTAL GROSS PROFIT 	   = RM6851.0
+	 TOTAL OTHER COST 	= RM5350.0
+	______________________________________________
+	 NET INCOME 		= RM1501.0
+	**************************************************************************
+
+"Despite the low income, you can still keep your business going."
+
+Output 3:
+Enter how many types of desserts you sell in your store: 3
+Enter the 3 type of desserts :
+Chocolate cake
+Mango juice 
+Lemon pie
+
+Price of the Chocolate cake : RM50
+Cost of ingredients of the Chocolate cake : RM30
+Quantity of the Chocolate cake sold : 16
+
+Price of the Mango juice  : RM8
+Cost of ingredients of the Mango juice  : RM4
+Quantity of the Mango juice  sold : 65
+
+Price of the Lemon pie : RM15
+Cost of ingredients of the Lemon pie : RM10
+Quantity of the Lemon pie sold : 120
+
+Have you hired staff? (Yes or No)
+no
+Enter the rent payment per month : RM800
+Enter the utilities fee for this month : RM750
+Enter the transport fee for this month : RM600
+
+Desserts detail:
+1. Chocolate cake 	Price: RM50.0 	Quantity Sold: 16 	Cost: RM30.0 	Gross Profit: RM20.0
+2. Mango juice  	Price: RM8.0 	Quantity Sold: 65 	Cost: RM4.0 	Gross Profit: RM4.0
+3. Lemon pie 	Price: RM15.0 	Quantity Sold: 120 	Cost: RM10.0 	Gross Profit: RM5.0
+
+	 FINANCIAL STATEMENT
+	**************************************************************************
+	 TOTAL SALES    	   = RM3120.0
+	 TOTAL COST OF INGREDIENTS = RM1940.0
+	______________________________________________
+	 TOTAL GROSS PROFIT 	   = RM1180.0
+	 TOTAL OTHER COST 	= RM2150.0
+	______________________________________________
+	 NET INCOME 		= RM-970.0
+	**************************************************************************
+
+"Your company is losing money, and if you continue to operate, you will face bankruptcy."
+
